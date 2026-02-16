@@ -1,4 +1,4 @@
-h1 {
+.main-title {
   color: red;
 }
 
@@ -9,4 +9,5 @@ p {
 ul {
   list-style: none;
 }
+
 
