@@ -9,3 +9,9 @@ p {
 ul {
   list-style: none;
 }
+
+.description {
+  color: gray;
+  margin-top: 20px;
+}
+
